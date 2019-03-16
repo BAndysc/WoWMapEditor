@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoWMapEditorStandalone", "WoWMapEditorStandalone\WoWMapEditorStandalone.csproj", "{72930752-8A3D-4D04-8A92-B275B36D1A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDE.Common", "WoWDatabaseEditor.Common\WDE.Common\WDE.Common.csproj", "{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDE.Module", "WoWDatabaseEditor.Common\WDE.Module\WDE.Module.csproj", "{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Debug|x86.Build.0 = Debug|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Release|x86.ActiveCfg = Release|Any CPU
+		{72930752-8A3D-4D04-8A92-B275B36D1A64}.Release|x86.Build.0 = Release|Any CPU
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Debug|x86.ActiveCfg = Debug|x86
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Debug|x86.Build.0 = Debug|x86
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Release|x86.ActiveCfg = Release|x86
+		{9D1A4E14-2FE1-403A-A042-ED7E49DB0438}.Release|x86.Build.0 = Release|x86
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Debug|x86.Build.0 = Debug|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Release|x86.ActiveCfg = Release|Any CPU
+		{034D29B2-FAAA-4FEA-A77E-5532AA2B0FB1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3995B0-026F-4802-8DFE-A644773F3FB3}
+	EndGlobalSection
+EndGlobal

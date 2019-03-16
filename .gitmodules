@@ -1,0 +1,6 @@
+[submodule "WoWMapEditor.Base"]
+	path = WoWMapEditor.Base
+	url = https://github.com/BAndysc/WoWMapEditor.Base
+[submodule "WoWDatabaseEditor.Common"]
+	path = WoWDatabaseEditor.Common
+	url = https://github.com/BAndysc/WoWDatabaseEditor.Common
